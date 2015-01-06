@@ -1,2 +1,3 @@
-osx-yosemite-setup-guide
+Mac OS X Yosemite Setup Guide
 ========================
+
