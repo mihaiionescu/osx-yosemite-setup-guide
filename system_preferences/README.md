@@ -41,6 +41,20 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 ## Finder
 
+* Toolbar (**View > Customize Toolbar**)
+    * Add **New Folder** and **Delete** options
+* Sidebar
+    * Add **Home** and Code / Projects directories
+    * Remove **All My Files**
+    * Remove the **Shared** options - not really useful
+* Advanced
+    * Enable **Show all filename and extensions**
+    * Enable **Empty Trash securely**
+* View Options
+    * Show **Path Bar**, **Status Bar**
+    * **View > As Columns**
+    * Enable **Show View Options > Always open in column view**
+
 ## Menubar
 
 * Modify **Battery** preferences to **Show Percentage**
