@@ -63,4 +63,15 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 ## Spotlight
 
+* Uncheck **Fonts**, **Movies**, **Images**
+* Uncheck **Finder search windows keyboard shortcut** option
+
+## Accounts
+
+* Add an **iCloud** account to sync Calendar, Contacts, Find My Mac, etc.
+* Set Up Family
+    * -- TO BE COMPLETED --
+* iCloud Drive (**Only when all systems are on Yosemite and iOS 8**)
+    * -- TO BE COMPLETED --
+
 ## Accounts
