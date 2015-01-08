@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [System Preferences](system_preferences/README.md)
-* Xcode
+* [Xcode](xcode/README.md)
 
