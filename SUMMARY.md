@@ -6,7 +6,7 @@
 * [Terminal](terminal/README.md)
 * [Homebrew](homebrew/README.md)
 * [Git](git/README.md)
-* Sublime Text
+* [Sublime Text](sublime_text/README.md)
 * [Ruby](ruby/README.md)
 * [Vagrant](vagrant/README.md)
 
