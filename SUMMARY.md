@@ -5,4 +5,5 @@
 * [Xcode](xcode/README.md)
 * [Terminal](terminal/README.md)
 * [Homebrew](homebrew/README.md)
+* Git
 
