@@ -4,6 +4,7 @@ First thing you need to do, on any OS acutally, is update the system! For that: 
 
 ## Users and Computer name
 
+* Disable **Guest User > Allow guests to log in to this computer**
 * **Login Options > Change** fast switching user menu to Icon
 * Setup password, Apple ID, account image, etc.
 
@@ -74,4 +75,6 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 * iCloud Drive (**Only when all systems are on Yosemite and iOS 8**)
     * -- TO BE COMPLETED --
 
-## Accounts
+## Automatic Updates
+
+-- TO BE COMPLETED --
