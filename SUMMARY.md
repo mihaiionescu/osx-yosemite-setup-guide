@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* System Preferences
+* [System Preferences](/system_preferences/main.md)
 
