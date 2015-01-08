@@ -53,7 +53,8 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 * View Options
     * Show **Path Bar**, **Status Bar**
     * **View > As Columns**
-    * Enable **Show View Options > Always open in column view**
+    * Select Column View for all items in the sidebar
+    * Enable **Show View Options (cmd + j) > Always open in column view** for all items in the sidebar
 
 ## Menubar
 
