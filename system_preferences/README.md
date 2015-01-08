@@ -33,11 +33,18 @@ Instead of using a smaller screen resolution, consider using the Zoom function (
 
 ## Dock
 
-I personally prefer the dock position at the bottom of the screen, but you can easily change that to either the left or right of the screen from System Settings > Dock
+* Change the **Size** to make the dock icons smaller
+* Enable **Magnification** and set the magnified size slightly higher that the **Size**
+
+
+I personally prefer the dock position at the bottom of the screen, but you can easily change that to either the left or right of the screen from **System Settings > Dock**.
 
 ## Finder
 
 ## Menubar
+
+* Modify **Battery** preferences to **Show Percentage**
+* 
 
 ## Spotlight
 
