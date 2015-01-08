@@ -7,4 +7,5 @@
 * [Homebrew](homebrew/README.md)
 * [Git](git/README.md)
 * Sublime Text
+* Ruby
 
