@@ -78,3 +78,5 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 ## Automatic Updates
 
 -- TO BE COMPLETED --
+
+## Troubleshooting
