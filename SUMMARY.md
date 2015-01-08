@@ -8,5 +8,5 @@
 * [Git](git/README.md)
 * Sublime Text
 * [Ruby](ruby/README.md)
-* Vagrant
+* [Vagrant](vagrant/README.md)
 
