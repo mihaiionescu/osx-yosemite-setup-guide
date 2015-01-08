@@ -2,6 +2,8 @@
 
 ## Users and Computer name
 
+
+
 ## Trackpad
 
 ## Dock
@@ -9,3 +11,7 @@
 ## Finder
 
 ## Menubar
+
+## Spotlight
+
+## Accounts
