@@ -44,13 +44,16 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 * Toolbar (**View > Customize Toolbar**)
     * Add **New Folder** and **Delete** options
-* Sidebar
-    * Add **Home** and Code / Projects directories
-    * Remove **All My Files**
-    * Remove the **Shared** options - not really useful
-* Advanced
-    * Enable **Show all filename and extensions**
-    * Enable **Empty Trash securely**
+* Preferences
+    * General
+        * Change **New Finder windows show** option to point to Home directory
+    * Sidebar
+        * Add **Home** and Code / Projects directories
+        * Remove **All My Files**
+        * Remove the **Shared** options - not really useful
+    * Advanced
+        * Enable **Show all filename and extensions**
+        * Enable **Empty Trash securely**
 * View Options
     * Show **Path Bar**, **Status Bar**
     * **View > As Columns**
