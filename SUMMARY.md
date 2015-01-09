@@ -4,7 +4,7 @@
 * [System Preferences](system_preferences/README.md)
 * [Xcode](xcode/README.md)
 * [Terminal](terminal/README.md)
-   * Bash
+   * [Bash](terminal/bash.md)
 * [Homebrew](homebrew/README.md)
 * [Git](git/README.md)
 * [Sublime Text](sublime_text/README.md)
