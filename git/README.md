@@ -38,7 +38,7 @@ The next time you clone an HTTPS URL that requires a password, you'll be prompte
 
 ## DS_Store
 
-Remeber to always add `.DS_Store` to the `.gitignore` file for all git projects.
+Remember to always add `.DS_Store` (a hidden OSX system file added to all folders) to the `.gitignore` file for all git projects.
 
 
 
