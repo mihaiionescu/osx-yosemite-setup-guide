@@ -55,4 +55,10 @@ The majority of your projects will ignore certain files. Use this [gitignore](gi
 
 Next we will set OSX Terminal to show the git branch and state.
 
+https://gist.github.com/mihaiionescu/0545d1b52ab5be540bd1
+
 -- TO BE ADDED --
+
+
+
+
