@@ -1,6 +1,4 @@
-# Bash Coding Setup
-
-## Preferences
+# Bash (OSX Default Terminal)
 
 ## Colour Themes
     
@@ -18,3 +16,7 @@
     * Close the Preferences windows & restart the app.
 
 #### Piperita
+
+## Window Groups
+
+Set specific Terminal tabs for every project.
