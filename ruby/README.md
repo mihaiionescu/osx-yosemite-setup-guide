@@ -21,4 +21,17 @@ Check the RVM, Ruby and Rails versions using:
 
 `rails -v` - you should get `rails 4.2.0` or higher.
 
-## Ruby
+## Install Other versions of Ruby
+
+* Make sure you have the latest stable version of RVM: `rvm get stable --autolibs=enable`
+* Check the installed Ruby versions with RVM, use: `rvm list rubies`
+* List all available Ruby versions, run: `rvm list known`
+* Install ruby 2.1.5: `rvm install ruby-2.1.5`
+* Make the 2.1.5 version the default version: `rvm use 2.1.5 --default`
+
+
+
+
+
+
+
