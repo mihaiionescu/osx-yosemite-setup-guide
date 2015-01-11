@@ -47,6 +47,10 @@ A paid alternative is [Tower](http://www.git-tower.com).
 
 Although a GUI git client has it's advantages, consider [using the command line](Link-to_git-command-line-tutorial-book-or-article) for the majority of your git-related tasks.
 
+## Git Ignore File
+
+The majority of your projects will ignore certain files. Use this [gitignore](git/git_ignore.md) example to add default ignore files.
+
 ## Git Repos Terminal Setup
 
 Next we will set OSX Terminal to show the git branch and state.
