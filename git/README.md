@@ -23,8 +23,21 @@ These options will be added into the `~/.gitconfig` file. You can check the cont
 
 The [official Git setup](https://help.github.com/articles/set-up-git/) guide recommends the HTTPS method (over SSH). In order to set HTTPS connection, we will enable using Git password caching ([article](https://help.github.com/articles/caching-your-github-password-in-git/)):
 
+* Check if **osxkeychain** is installed: `
+git config --global credential.helper osxkeychain
+`
+* If the **osxkeychain** is **not** installed: 
+    * Download it using curl: `curl -s -O \
+https://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain`.
+    * Fix the permissions on the file so you can run it: `chmod u+x git-credential-osxkeychain`
+    * Install the helper in the same directory as **git**: `sudo mv git-credential-osxkeychain \
+"$(dirname $(which git))/git-credential-osxkeychain"`
+* Tell git to use osxkeychain using the **credential.helper** config: `git config --global credential.helper osxkeychain`
 
 
-```
-$ git config --global credential.helper osxkeychain
-```
+
+
+
+
+
+
