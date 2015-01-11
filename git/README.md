@@ -7,3 +7,16 @@ brew update
 brew install git
 ```
 
+After the installation is complete, run `brew doctor`. Check [Homebrew warnings](homebrew/README.md) section if homebrew displays any warnings / errors.
+
+In order to check git installation, run `git --version`.
+Running `which git` should output `/usr/local/bin/git`.
+
+Next we will set your [Github](https://github.com) user and email for git.
+
+If you do have a Github account, create one. Add your user name and email in git using:
+```
+$ git config --global user.name "Your Github Full Name"
+$ git config --global user.email "Your Github Email Address"
+```
+
