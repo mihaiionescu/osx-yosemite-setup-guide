@@ -8,3 +8,11 @@ You can add a shortcut to the Terminal so that you can open files and folders in
 `$ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
 
 Once you do that, you can open folders using `subl .` or files `subl /path/to/file/my_file`.
+
+In the next sections we will add Package Control and setup Sublime further.
+
+## Preferences
+
+## Package Control
+
+## Sublime Linter
