@@ -23,3 +23,18 @@ If you get `Warning: /usr/bin occurs before /usr/local/bin` when running `brew d
 
 `$ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
 
+Quit & relauch Terminal, then run `brew doctor` again. You should be ready to brew.
+
+##### Cellar folder doesn't exists
+
+If you get `Error: No such file or directory - /usr/local/Cellar` when running `brew doctor`, create the Cellar folder:
+
+`$ sudo mkdir /usr/local/Cellar`
+
+Quit & relauch Terminal, then run `brew doctor` again. You should be ready to brew.
+
+
+
+
+
+
