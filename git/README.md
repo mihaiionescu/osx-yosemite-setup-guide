@@ -34,6 +34,7 @@ https://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain`.
 "$(dirname $(which git))/git-credential-osxkeychain"`
 * Tell git to use osxkeychain using the **credential.helper** config: `git config --global credential.helper osxkeychain`
 
+The next time you clone an HTTPS URL that requires a password, you'll be prompted for your username and password, and to grant access to the OSX keychain. After you've done this, the username and password are stored in your keychain and you won't be required to type them in to Git again.
 
 
 
