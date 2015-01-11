@@ -47,7 +47,7 @@ A paid alternative is [Tower](http://www.git-tower.com).
 
 Although a GUI git client has it's advantages, consider [using the command line](Link-to_git-command-line-tutorial-book-or-article) for the majority of your git-related tasks.
 
-## Github Repos Terminal Setup
+## Git Repos Terminal Setup
 
 Next we will set OSX Terminal to show the git branch and state.
 
