@@ -13,4 +13,4 @@ $ brew doctor
 Your system is ready to brew.
 ```
 
-Unless otherwise specified in the output, you can move on to [installing **git**](/git/README.md)
+Unless otherwise specified in the output, you can move on to [installing **git**](git/README.md)
