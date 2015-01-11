@@ -8,7 +8,7 @@
    * [iTerm2](terminal/iterm2.md)
 * [Homebrew](homebrew/README.md)
 * [Git](git/README.md)
-* [Ruby & RVM](ruby/README.md)
+* [RVM & Ruby](ruby/README.md)
 * [Sublime Text](sublime_text/README.md)
 * [Vagrant](vagrant/README.md)
 
