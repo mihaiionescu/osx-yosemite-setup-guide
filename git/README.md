@@ -45,7 +45,9 @@ Remember to always add `.DS_Store` (a hidden OSX system file added to all folder
 Download the [Github app](https://mac.github.com) and open it. follow the on-screen instructions to set it up. This will create a SSH key in your Github account. This will be used by the app to communicate with your account.
 A paid alternative is [Tower](http://www.git-tower.com).
 
-## Github Terminal Setup
+Although a GUI git client has it's advantages, consider [using the command line](Link-to_git-command-line-tutorial-book-or-article) for the majority of your git-related tasks.
+
+## Github Repos Terminal Setup
 
 Next we will set OSX Terminal to show the git branch and state.
 
