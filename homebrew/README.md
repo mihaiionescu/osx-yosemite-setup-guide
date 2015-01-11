@@ -14,3 +14,12 @@ Your system is ready to brew.
 ```
 
 Unless otherwise specified in the output, you can move on to [installing git](git/README.md).
+
+#### Common Homebrew Warnings
+
+##### PATH Inconsistency
+
+If you get `Warning: /usr/bin occurs before /usr/local/bin` when running `brew doctor`, run the command below, as recommended by Homebrew:
+
+`$ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
+
