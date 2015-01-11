@@ -15,10 +15,10 @@ This will take some time to finish. After the installation is complete, **quit a
 
 Check the RVM, Ruby and Rails versions using:
 
-`rvm -v` - you should get `rvm 1.26.1` or higher.
+`rvm -v` - you should get `rvm 1.26.9` or higher.
 
-`ruby -v` - you should get `ruby 1.2.5` or higher.
+`ruby -v` - you should get `ruby 2.2.0p0` or higher.
 
-`rails -v` - you should get `rails 4.1.7` or higher.
+`rails -v` - you should get `rails 4.2.0` or higher.
 
 ## Ruby
