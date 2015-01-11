@@ -72,8 +72,15 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 ## Safari
 
+* Search
+    * **Search engine > DuckDuckGo**
 * Advanced
+    * Enable **Show full website address**
+    * Disable **Preload Top Hit in the background**
+    * Enable **Show Develop menu in menu bar**
 * Privacy
+    * **Cookies and website data > Allow from websites I visit**
+    * **Website use of location services > Prompt for each website once each day** 
 
 ## Accounts
 
