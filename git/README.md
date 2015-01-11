@@ -20,3 +20,4 @@ $ git config --global user.name "Your Github Full Name"
 $ git config --global user.email "Your Github Email Address"
 ```
 These options will be added into the `~/.gitconfig` file. You can check the contents of this file using `vim ~/.gitconfig` command.
+
