@@ -12,7 +12,7 @@
     * Select Tomorrow theme from Profile list.
     * Choose **Window** tab.
     * From the **Background** section, click on **Colour & Effects**.
-    * Set the **Opacity** option to 75%
+    * Set the **Opacity** option to 85%
     * Close the Preferences windows & restart the app.
 
 #### Piperita
