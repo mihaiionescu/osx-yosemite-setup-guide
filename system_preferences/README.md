@@ -59,6 +59,8 @@ I personally prefer the dock position at the bottom of the screen, but you can e
     * **View > As Columns**
     * Select Column View for all items in the sidebar
     * Enable **Show View Options (cmd + j) > Always open in column view** for all items in the sidebar
+* Show hidden files:
+    * `defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder`
 
 ## Menubar
 
