@@ -13,6 +13,12 @@ In the next sections we will add Package Control and setup Sublime further.
 
 ## Preferences
 
+One of the great advantages of Sublime Text is the ability to customise it easily. The following [gist](https://gist.github.com/mihaiionescu/7ec7c57950f9e0a2c9dc) contains the User Settings I currently use. 
+
 ## Package Control
+
+#### Install Package Control
+
+
 
 ## Sublime Linter
