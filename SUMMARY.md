@@ -7,7 +7,7 @@
    * [Bash](terminal/bash.md)
    * [iTerm2](terminal/iterm2.md)
 * [Homebrew](homebrew/README.md)
-   * Usage
+   * [Usage](homebrew/usage.md)
 * [Git](git/README.md)
 * [RVM & Ruby](ruby/README.md)
 * [Sublime Text](sublime_text/README.md)
