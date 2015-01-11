@@ -70,6 +70,11 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 * Uncheck **Fonts**, **Movies**, **Images**
 * Uncheck **Finder search windows keyboard shortcut** option
 
+## Safari
+
+* Advanced
+* Privacy
+
 ## Accounts
 
 * Add an **iCloud** account to sync Calendar, Contacts, Find My Mac, etc.
