@@ -33,7 +33,7 @@ If you get `Error: No such file or directory - /usr/local/Cellar` when running `
 
 Quit & relauch Terminal, then run `brew doctor` again. You should be ready to brew.
 
-
+For other common problems with Homebrew, check http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#step-3
 
 
 
