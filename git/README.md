@@ -40,6 +40,10 @@ The next time you clone an HTTPS URL that requires a password, you'll be prompte
 
 Remember to always add `.DS_Store` (a hidden OSX system file added to all folders) to the `.gitignore` file for all git projects.
 
+## Github app
 
+Download the [Github app](https://mac.github.com) and open it. follow the on-screen instructions to set it up. This will create a SSH key in your Github account. This will be used by the app to communicate with your account.
 
+## Github Terminal Setup
 
+-- TO BE ADDED --
