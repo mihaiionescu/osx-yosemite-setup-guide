@@ -32,6 +32,3 @@ Check the RVM, Ruby and Rails versions using:
 
 
 
-
-
-
