@@ -15,6 +15,6 @@
     * Choose **Window** tab.
     * From the **Background** section, click on **Colour & Effects**.
     * Set the **Opacity** option to 75%
-    * Close the Preferences windows.
+    * Close the Preferences windows & restart the app.
 
 #### Piperita
