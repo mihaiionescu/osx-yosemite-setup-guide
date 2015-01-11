@@ -11,7 +11,9 @@ Now you can proceed and install RVM and Ruby (check the [official documentation]
 
 `curl -sSL https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --rails`
 
-This will take some time to finish. After the installation is complete, check the RVM, Ruby and Rails versions using:
+This will take some time to finish. After the installation is complete, **quit and relaunch Terminal**, and then check the installation by running the `type rvm | head -1` command. If the response is `rvm is a function`, RVM was installed correctly.
+
+Check the RVM, Ruby and Rails versions using:
 
 `rvm -v` - you should get `rvm 1.26.1` or higher.
 
