@@ -21,3 +21,8 @@ $ git config --global user.email "Your Github Email Address"
 ```
 These options will be added into the `~/.gitconfig` file. You can check the contents of this file using `vim ~/.gitconfig` command.
 
+The [official Git setup](https://help.github.com/articles/set-up-git/) guide recommends the HTTPS method (over SSH). In order to set HTTPS connection, we will enable using Git password caching:
+
+```
+$ git config --global credential.helper osxkeychain
+```
