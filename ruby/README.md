@@ -4,9 +4,19 @@
 
 [Ruby Version Manager](https://rvm.io), is one of the most popular tools that allow you to install and manage multiple versions of Ruby and Ruby on Rails on the same computer.
 
-You can install both Ruby and Rails using a single command with RVM, but because it also installs all the documentation, it is advisable to disable it in the beginning. Open **Terminal** and run:
+You can install RVM, Ruby and Rails using a single command, but because it also installs all the documentation, it is advisable to disable it in the beginning. Open **Terminal** and run:
 `echo "gem: --no-document" >> ~/.gemrc`
 
+Now you can proceed and install RVM and Ruby (check the [official documentation](https://rvm.io/rvm/install) for different options):
 
+`curl -sSL https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --rails`
+
+This will take some time to finish. After the installation is complete, check the RVM, Ruby and Rails versions using:
+
+`rvm -v` - you should get at least `1.26.1`.
+
+`ruby -v` - you should get `1.2.5`.
+
+`rails -v` - you should get `4.1.7`.
 
 ## Ruby
