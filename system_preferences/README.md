@@ -76,6 +76,8 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 * Search
     * **Search engine > DuckDuckGo**
+* General
+    * Set **Safari opens with** option to **All windows from last session**
 * Advanced
     * Enable **Show full website address**
     * Disable **Preload Top Hit in the background**
