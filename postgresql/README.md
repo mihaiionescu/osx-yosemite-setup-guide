@@ -15,3 +15,4 @@ In order to add Postgres command line utilities, we'll need to change the $PATH 
 * for Bash users, add the following to the `~/.bash_profile`:
 
 `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.3/bin`
+
