@@ -16,3 +16,4 @@ In order to add Postgres command line utilities, we'll need to change the $PATH 
 
 `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.3/bin`
 
+You can now check if the path is set up correctly by typing `which psql`.
