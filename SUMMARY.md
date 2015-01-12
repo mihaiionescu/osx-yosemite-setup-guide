@@ -12,5 +12,5 @@
 * [RVM & Ruby](ruby/README.md)
 * [Sublime Text](sublime_text/README.md)
 * [Vagrant](vagrant/README.md)
-* Apps
+* [Apps](apps/README.md)
 
