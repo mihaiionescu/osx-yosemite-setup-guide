@@ -12,6 +12,6 @@
 * [RVM & Ruby](ruby/README.md)
 * [Sublime Text](sublime_text/README.md)
 * [Vagrant](vagrant/README.md)
-* [Apps](apps/README.md)
 * PostgreSQL
+* [Apps](apps/README.md)
 
