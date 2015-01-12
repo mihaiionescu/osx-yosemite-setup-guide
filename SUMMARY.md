@@ -14,5 +14,5 @@
 * [Vagrant](vagrant/README.md)
 * PostgreSQL
 * [Apps](apps/README.md)
-* References
+* [References](references/README.md)
 
