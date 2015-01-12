@@ -4,6 +4,7 @@
 
 #### Installation
 
-* Download the latest Vagrant for OSX from [here](https://www.vagrantup.com/downloads.html)
-* Open the **.dmg** file
-* Check the installation by running `vagrant -v`
+* Download the latest Vagrant for OSX from [here](https://www.vagrantup.com/downloads.html).
+* Open the **.dmg** file and run the Vagrant.pkg file.
+* Follow the on-screen instructions to finalise the installation.
+* Check the installation by running `vagrant -v`.
