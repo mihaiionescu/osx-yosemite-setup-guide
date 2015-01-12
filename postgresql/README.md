@@ -12,4 +12,6 @@ Update the app's preferences to **Start Postgres automatically after login**
 
 In order to add Postgres command line utilities, we'll need to change the $PATH environment variable:
 
-* 
+* for Bash users, add the following to the `~/.bash_profile`:
+
+`export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.3/bin`
