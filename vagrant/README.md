@@ -11,5 +11,5 @@
 
 #### Install Virtual Box
 
-* https://www.virtualbox.org/wiki/Downloads
-* 
+* Download the OSX latest Vistual Box release from the [list](https://www.virtualbox.org/wiki/Downloads).
+* Open the **.dmg**, double click the **.pkg** file and follow the on-screen instructions.
