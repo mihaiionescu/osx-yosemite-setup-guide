@@ -8,3 +8,8 @@
 * Open the **.dmg** file and run the Vagrant.pkg file.
 * Follow the on-screen instructions to finalise the installation.
 * Check the installation by running `vagrant -v`.
+
+#### Install Virtual Box
+
+* https://www.virtualbox.org/wiki/Downloads
+* 
