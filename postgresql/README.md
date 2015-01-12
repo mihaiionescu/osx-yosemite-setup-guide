@@ -17,3 +17,11 @@ In order to add Postgres command line utilities, we'll need to change the $PATH 
 `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.3/bin`
 
 You can now check if the path is set up correctly by typing `which psql`.
+
+PostgreSQL: `clusterdb` `createdb` `createlang` `createuser` `dropdb` `droplang` `dropuser` `ecpg` `initdb` `oid2name` `pg_archivecleanup` `pg_basebackup` `pg_config` `pg_controldata` `pg_ctl` `pg_dump` `pg_dumpall` `pg_receivexlog` `pg_resetxlog` `pg_restore` `pg_standby` `pg_test_fsync` `pg_test_timing` `pg_upgrade` `pgbench` `postgres` `postmaster` `psql` `reindexdb` `vacuumdb` `vacuumlo`
+
+#### Useful Commands
+
+* Connect to specific database: `psql -d <database_name>` 
+* 
+
