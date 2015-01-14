@@ -100,7 +100,7 @@ In order to install it:
 
 #### Source Code Pro
 
-[Source Code Pro](https://github.com/adobe-fonts/source-code-pro/releases/latest) is my choice of font for the Terminal. It was designed to work well in user interface (UI) environments.
+[Source Code Pro](https://github.com/adobe-fonts/source-code-pro/releases/latest) is my choice of font for the Terminal. It is a monospaced font developed by Adobe, which designed it to work well in user interface (UI) environments.
 
 * [download](https://github.com/adobe-fonts/source-code-pro/releases/latest) the latest version
 * Open **Font Book** and **Import** the font.
