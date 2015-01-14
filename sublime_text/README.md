@@ -15,23 +15,14 @@ In the next sections we will add Package Control and setup Sublime further.
 
 One of the great advantages of Sublime Text is the ability to customise it easily. The following [gist](https://gist.github.com/mihaiionescu/7ec7c57950f9e0a2c9dc) contains the User Settings I currently use. 
 
-#### Colour Scheme
-
-After trying a large number of colour schemes, my weapon of choice is Base 16](). It provides a coherent colour scheme throughout the Terminal and text editors in your operating system. 
-In order to add the Base 16 colour schemes to Sublime Text:
-* Open a Terminal window
-* **cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages**
-* **git clone git://github.com/chriskempson/base16-textmate.git Base16**
-* after the download is complete, you can choose a different colour theme from **Sublime Text > Preferences > Color Schemes > Base16**
-
 #### Sidebar Theme
 
-I like my sidebar and general appeal of Sublime to be minimal, and the Spacegray theme gives just that. Another advantage of this theme, it can be installed through the Package Control:
+I like my sidebar and general appeal of Sublime to be minimal and I am also a fan of the [Base16]() colour scheme. [Spacegray Theme]() combines a minimal theme with the Base16 colour scheme. Another advantage of this theme, it can be installed through the Package Control:
 * Open Package Control **Tools > Command Palette (shift + cmd + p) >  Package Control: Install Package**
 * Find **Spacegray - Theme** and hit Enter.
 * Activate the Sidebar and Colour Theme:
     * Open User Preferences: **cmd + ,** or **Sublime Text > Preferences > Settings - User**
-    * add the following options 
+    * add the following options (*Note: the options are already part of the preferences in the above gist*)
     ```
     "theme": "Spacegray.sublime-theme",
     "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
