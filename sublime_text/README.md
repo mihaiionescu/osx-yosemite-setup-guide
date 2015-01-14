@@ -17,7 +17,7 @@ One of the great advantages of Sublime Text is the ability to customise it easil
 
 #### Sidebar Theme
 
-I like my sidebar and general appeal of Sublime to be minimal and I am also a fan of the [Base16]() colour scheme. [Spacegray Theme]() combines a minimal theme with the Base16 colour scheme. Another advantage of this theme, it can be installed through the Package Control:
+I like my sidebar and general appeal of Sublime to be minimal and I am also a fan of the [Base16]() colour scheme. [Spacegray Theme](https://github.com/kkga/spacegray) combines a minimal theme with the Base16 colour scheme. Another advantage of this theme, it can be installed through the Package Control:
 * Open Package Control **Tools > Command Palette (shift + cmd + p) >  Package Control: Install Package**
 * Find **Spacegray - Theme** and hit Enter.
 * Activate the Sidebar and Colour Theme:
@@ -27,7 +27,7 @@ I like my sidebar and general appeal of Sublime to be minimal and I am also a fa
     "theme": "Spacegray.sublime-theme",
     "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
     ```
-
+* for different options see https://github.com/kkga/spacegray
 
 ## Package Control
 
