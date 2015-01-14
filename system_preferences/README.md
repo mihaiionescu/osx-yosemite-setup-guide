@@ -86,6 +86,18 @@ I personally prefer the dock position at the bottom of the screen, but you can e
     * **Cookies and website data > Allow from websites I visit**
     * **Website use of location services > Prompt for each website once each day** 
 
+## Fonts
+
+#### Input Font
+
+[Input Font](http://input.fontbureau.com/) is a font created especially for development environments. What sets it apart from other coding fonts is the ability to personalise the code: you can choose either a Serif, Sans or Mono font type, the apparance of i and l (known as the most difficult letters for coding evironments).
+
+I've customised 
+
+#### Source Code Pro
+
+
+
 ## Accounts
 
 * Add an **iCloud** account to sync Calendar, Contacts, Find My Mac, etc.
@@ -99,3 +111,13 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 -- TO BE COMPLETED --
 
 ## Troubleshooting
+
+
+
+
+
+
+
+
+
+
