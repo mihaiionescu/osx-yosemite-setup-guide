@@ -27,6 +27,7 @@ I like my sidebar and general appeal of Sublime to be minimal and I am also a fa
     "theme": "Spacegray.sublime-theme",
     "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
     ```
+* restart Sublime Text 3 in order for the theme to take effect.
 * for different options see https://github.com/kkga/spacegray
 
 ## Package Control
