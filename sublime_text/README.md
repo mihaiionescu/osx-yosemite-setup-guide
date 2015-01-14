@@ -29,6 +29,13 @@ In order to add the Base 16 colour schemes to Sublime Text:
 I like my sidebar and general appeal of Sublime to be minimal, and the Spacegray theme gives just that. Another advantage of this theme, it can be installed through the Package Control:
 * Open Package Control **Tools > Command Palette (shift + cmd + p) >  Package Control: Install Package**
 * Find **Spacegray - Theme** and hit Enter.
+* Activate the Sidebar and Colour Theme:
+    * Open User Preferences: **cmd + ,** or **Sublime Text > Preferences > Settings - User**
+    * add the following options 
+    ```
+    "theme": "Spacegray.sublime-theme",
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
+    ```
 
 
 ## Package Control
