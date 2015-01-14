@@ -15,6 +15,15 @@ In the next sections we will add Package Control and setup Sublime further.
 
 One of the great advantages of Sublime Text is the ability to customise it easily. The following [gist](https://gist.github.com/mihaiionescu/7ec7c57950f9e0a2c9dc) contains the User Settings I currently use. 
 
+#### Colour Scheme
+
+After trying a large number of colour schemes, my weapon of choice is Base 16](). It provides a coherent colour scheme throughout the Terminal and text editors in your operating system. 
+In order to add the Base 16 colour schemes to Sublime Text:
+* Open a Terminal window
+* **cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages**
+* **git clone git://github.com/chriskempson/base16-textmate.git Base16**
+* after the download is complete, you can choose a different colour theme from **Sublime Text > Preferences > Color Schemes > Base16**
+
 ## Package Control
 
 #### Install Package Control
