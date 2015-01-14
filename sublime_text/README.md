@@ -24,6 +24,11 @@ In order to add the Base 16 colour schemes to Sublime Text:
 * **git clone git://github.com/chriskempson/base16-textmate.git Base16**
 * after the download is complete, you can choose a different colour theme from **Sublime Text > Preferences > Color Schemes > Base16**
 
+#### Sidebar Theme
+
+
+
+
 ## Package Control
 
 #### Install Package Control
