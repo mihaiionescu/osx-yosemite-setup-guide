@@ -6,3 +6,4 @@ The end result will be a development environment which will only require `vagran
 * A shared folder linked to the Docker container so you can carry on editing Rails code on your development machine as you do now, and see those changes instantly reflected on `http://localhost:3000`.
 * A simple interface for running all the normal Rails commands (`rake db:migrate`, `rails c` etc) in the Docker environment.
 
+http://www.talkingquickly.co.uk/2014/06/rails-development-environment-with-vagrant-and-docker/
