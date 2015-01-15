@@ -5,4 +5,5 @@
     * install the [Safari extension](https://agilebits.com/onepassword/extensions) .
     * install the [Chrome extension]().
     * install the [Firefox extension]().
+* Pages, Number, Keynote, unless they are already installed. These apps should be in your **Purchases** section in the **App Store** app.
 * Install HyperDock
