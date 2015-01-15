@@ -3,7 +3,7 @@
 * ~~Setup Family Sharing~~
 * Install [1Password]() (*done*). When you first open the app, it'll prompt you to install browser extensions.
     * install the [Safari extension](https://agilebits.com/onepassword/extensions) .
-    * install the [AdBlock extension]().
+    * install the [AdBlock extension](https://getadblock.com/installed/?u=jfvg58qo82603959).
     * install the [Chrome extension](https://agilebits.com/onepassword/extensions/chrome?beta=false).
 * [Pages](), [Number](), [Keynote](), [iMovie](), [iPhoto]() unless they are already installed. These apps should be in your **Purchases** section in the **App Store** app.
 * [UnArchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12)
