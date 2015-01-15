@@ -61,6 +61,10 @@ I personally prefer the dock position at the bottom of the screen, but you can e
     * Enable **Show View Options (cmd + j) > Always open in column view** for all items in the sidebar
 * Show hidden files:
     * `defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder`
+* Create **.ec2** folder:
+    * Open Finder window
+    * Open **Go to**  (**cmd + shift + G**) and navigate to `~/`
+    * Create a folder named **.ec2**
 
 ## Menubar
 
