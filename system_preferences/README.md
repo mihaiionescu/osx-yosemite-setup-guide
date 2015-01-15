@@ -69,7 +69,6 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 ## Menubar
 
 * Modify **Battery** preferences to **Show Percentage**
-* 
 
 ## Spotlight
 
