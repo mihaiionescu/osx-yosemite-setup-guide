@@ -17,7 +17,7 @@
 
 ## Test Vagrant and Virtual Box
 
-Follow the Vagrant start up guide.
+Follow the Vagrant [start up guide](https://docs.vagrantup.com/v2/getting-started/project_setup.html).
 
 ## Install Vagrant Manager
 
