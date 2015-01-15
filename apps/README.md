@@ -6,4 +6,5 @@
     * install the [Chrome extension]().
     * install the [Firefox extension]().
 * Pages, Number, Keynote, unless they are already installed. These apps should be in your **Purchases** section in the **App Store** app.
+* Install [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
 * Install HyperDock
