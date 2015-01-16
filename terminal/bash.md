@@ -28,6 +28,13 @@ Reference: https://lcoppa.wordpress.com/2011/05/01/autocomplete-command-line-fro
 
 #### Git Repository Color Theme
 
+When working at a project that uses git for version control, it is very useful to know the current branch you're working on and weather or not you the latest changes are committed.
+In order to display this information, we'll modify the `~/.bash_profile` file:
+
+* Open **Terminal** app and run `subl ~/.bash_profile`
+* Add the contents of this [gist](https://gist.github.com/mihaiionescu/bc4127187f85fc25fac4) at the end of the file.
+* Restart the **Terminal** and navigate to a git repository folder.
+
 ## Colour Themes
     
 ####  Tomorrow
