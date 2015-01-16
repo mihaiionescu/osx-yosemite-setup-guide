@@ -22,7 +22,7 @@ A very useful feature you can add to you Terminal is the ability to autocomplete
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 ```
-* close and reopen the **Terminal**.
+* close and reopen the **Terminal**. Now you can start writing the command, then press the `up arrow` and you'll search through the commands you alrady used.
 
 Reference: https://lcoppa.wordpress.com/2011/05/01/autocomplete-command-line-from-history-in-os-x-terminal/
 
