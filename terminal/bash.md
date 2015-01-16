@@ -1,10 +1,21 @@
 # Bash (OSX Default Terminal)
 
-## Preferences
+## Bash Profile
 
 #### Keyboard Shortcuts
 
 #### Auto Complete From History
+
+A very useful feature you can add to you Terminal is the ability to autocomplete the command from the command history. In order to do this, you must modify the **~/.bash_profile** file. 
+
+* Open **Terminal** and run `subl ~/.bash_profile`
+* Append the following key bindings:
+```
+# make bash autocomplete with up arrow/down arrow
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+```
+* close and reopen the **Terminal**.
 
 #### Git Repository Color Theme
 
