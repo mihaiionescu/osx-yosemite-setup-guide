@@ -17,6 +17,8 @@ bind '"\e[B":history-search-forward'
 ```
 * close and reopen the **Terminal**.
 
+Reference: https://lcoppa.wordpress.com/2011/05/01/autocomplete-command-line-from-history-in-os-x-terminal/
+
 #### Git Repository Color Theme
 
 ## Colour Themes
