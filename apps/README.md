@@ -11,7 +11,7 @@
     * install the [1Password Firefox extension](https://agilebits.com/onepassword/extensions/firefox?beta=false).
 * Install [HyperDock](http://hyperdock.bahoom.com/get).
 * [Alfred](http://www.alfredapp.com)
-* [VLC 2.0]().
+* [VLC 2](http://www.videolan.org/vlc/index.en_GB.html).
 
 ### Developer Apps
 
