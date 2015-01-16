@@ -2,7 +2,9 @@
 
 ## Preferences
 
-#### Autocomplete From History
+#### Keyboard Shortcuts
+
+#### Auto Complete From History
 
 #### Git Repository Color Theme
 
