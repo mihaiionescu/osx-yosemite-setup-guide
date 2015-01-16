@@ -12,7 +12,8 @@
 * Install [HyperDock](http://hyperdock.bahoom.com/get).
 * [Alfred](http://www.alfredapp.com)
 * [VLC 2](http://www.videolan.org/vlc/index.en_GB.html).
-* [App Cleaner](http://www.freemacsoft.net/appcleaner/)
+* [App Cleaner](http://www.freemacsoft.net/appcleaner/).
+* [uTorrent](http://www.utorrent.com) is a very light and fast torrent client.
 
 ### Developer Apps
 
