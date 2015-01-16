@@ -1,5 +1,11 @@
 # Bash (OSX Default Terminal)
 
+## Preferences
+
+#### Autocomplete From History
+
+#### Git Repository Color Theme
+
 ## Colour Themes
     
 ####  Tomorrow
