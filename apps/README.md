@@ -16,7 +16,7 @@
 * [Chrome]()
     * install the [1Password Chrome extension](https://agilebits.com/onepassword/extensions/chrome?beta=false).
     * install [Sense](), an essential tool for ElasticSearch developers.
-* Install [Postman]() packaged app. A very useful tool for API developers. The packaged app offers more features than the Chrome extension.
+* Install [Postman](http://www.getpostman.com) packaged app. A very useful tool for API developers. The packaged app offers more features than the Chrome extension.
 
 ### Developer Apps
 
