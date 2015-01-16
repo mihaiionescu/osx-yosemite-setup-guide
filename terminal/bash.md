@@ -4,6 +4,11 @@
 
 #### Keyboard Shortcuts
 
+By default, OSX Yosemite comes with some very useful keyboard shortcuts:
+* go to the beginning of the line `crtl + a`
+* go to the end of the line `ctrl + e`
+* move one word at a time `alt + right/left arrow`
+
 #### Auto Complete From History
 **??????**
 
