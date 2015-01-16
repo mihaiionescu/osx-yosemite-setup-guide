@@ -4,7 +4,6 @@
 * Install [1Password]() (*done*). When you first open the app, it'll prompt you to install browser extensions.
     * install the [Safari extension](https://agilebits.com/onepassword/extensions) .
     * install the [AdBlock extension](https://getadblock.com/installed/?u=jfvg58qo82603959).
-    * install the [Chrome extension](https://agilebits.com/onepassword/extensions/chrome?beta=false).
 * [Pages](), [Number](), [Keynote](), [iMovie](), [iPhoto]() unless they are already installed. These apps should be in your **Purchases** section in the **App Store** app.
 * [UnArchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12)
 * Install [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
@@ -14,6 +13,10 @@
 * [VLC 2](http://www.videolan.org/vlc/index.en_GB.html).
 * [App Cleaner](http://www.freemacsoft.net/appcleaner/).
 * [uTorrent](http://www.utorrent.com) is a very light and fast torrent client.
+* [Chrome]()
+    * install the [1Password Chrome extension](https://agilebits.com/onepassword/extensions/chrome?beta=false).
+    * install [Sense](), an essential tool for ElasticSearch developers.
+* Install [Postman]() packaged app. A very useful tool for API developers. The packaged app offers more features than the Chrome extension.
 
 ### Developer Apps
 
