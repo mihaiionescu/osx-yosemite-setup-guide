@@ -10,8 +10,6 @@ By default, OSX Yosemite comes with some very useful keyboard shortcuts:
 * move one word at a time `alt + right/left arrow`
 
 #### Auto Complete From History
-**??????**
-
 
 A very useful feature you can add to you Terminal is the ability to autocomplete the command from the command history. In order to do this, you must modify the **~/.bash_profile** file. 
 
