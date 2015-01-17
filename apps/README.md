@@ -8,7 +8,8 @@
 * [UnArchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12)
 * Install [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
     * install the [1Password Firefox extension](https://agilebits.com/onepassword/extensions/firefox?beta=false).
-* Install [HyperDock](http://hyperdock.bahoom.com/get).
+* ~~Install [HyperDock](http://hyperdock.bahoom.com/get).~~
+* Install [Spectacle](http://spectacleapp.com) - a better alternative to Hyperdock. It doesn't seem to have the bugs Hyperdock has on OSX Yosemite (screw up the Notification Center & other animations).
 * [Alfred](http://www.alfredapp.com)
 * [VLC 2](http://www.videolan.org/vlc/index.en_GB.html).
 * [App Cleaner](http://www.freemacsoft.net/appcleaner/).
