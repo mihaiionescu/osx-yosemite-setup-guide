@@ -7,7 +7,7 @@
 * [Git]()
 * [GitGutter]()
 * [SCSS]() ?????
-* [SublimeLinter](). We will go into details about this package in a separate section.
+* [SublimeLinter](http://sublimelinter.readthedocs.org/en/latest/installation.html#installing-via-pc). We will go into details about this package in a separate section.
 
 -- TO ADD MORE --
 
