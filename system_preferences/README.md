@@ -117,6 +117,10 @@ In order to install it:
 * iCloud Drive (**Only when all systems are on Yosemite and iOS 8**)
     * -- TO BE COMPLETED --
 
+## XQuartz
+
+[XQuartz](http://xquartz.macosforge.org/landing/) ....
+
 ## Automatic Updates
 
 -- TO BE COMPLETED --
