@@ -19,6 +19,8 @@
     * install [Sense](), an essential tool for ElasticSearch developers.
 * Install [Postman](http://www.getpostman.com) packaged app. A very useful tool for API developers. The packaged app offers more features than the Chrome extension.
 
+* [Mou](http://25.io/mou/) or [Erato](http://9muses.se/erato/) or [Sublime Text Markdown add on](https://packagecontrol.io/packages/GitHub%20Flavored%20Markdown%20Preview)? Who wins my sympathy? Let the games begin ....
+
 ### Developer Apps
 
 ### Productivity Apps
