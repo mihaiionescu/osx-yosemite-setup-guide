@@ -88,6 +88,7 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 * Privacy
     * **Cookies and website data > Allow from websites I visit**
     * **Website use of location services > Prompt for each website once each day** 
+* Install [Flash](http://get.adobe.com/flashplayer/). There are still a lot of websites that are using flash.
 
 ## Fonts
 
