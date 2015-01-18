@@ -1,6 +1,6 @@
 ## Install R & RStudio
 
-* Install XQuartz
+* Install [XQuartz](http://xquartz.macosforge.org/landing/)
 * Use Homebrew to install R
 * 
 
