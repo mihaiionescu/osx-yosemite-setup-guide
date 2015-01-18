@@ -43,16 +43,7 @@ import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c
 
 Note: double check the installation command [here](https://packagecontrol.io/installation). Every release the command is changed. 
 
-#### Useful Packages
-
--- TO BE ADDED --
-
-## Sublime Linter
-
-Inspiration: http://sourabhbajaj.com/mac-setup/SublimeText/SublimeLinter.html
-
-
--- TO BE ADDED --
+#### Next we'll install some packages to improve Sublime Text for developing.
 
 
 
