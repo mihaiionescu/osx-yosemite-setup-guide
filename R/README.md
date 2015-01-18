@@ -1,8 +1,8 @@
 ## Install R & RStudio
 
-* Install [XQuartz](http://xquartz.macosforge.org/landing/).
+* Download and install [XQuartz](http://xquartz.macosforge.org/landing/).
 * Restart you Mac.
 * Use Homebrew to install R
-* Install [RStudio](http://www.rstudio.com/products/RStudio/)
+* Download and install [RStudio](http://www.rstudio.com/products/RStudio/)
 
 following http://derjan.io/blog/2014/07/17/setup-r-with-homebrew/ for now.
