@@ -50,6 +50,10 @@ In order to display this information, we'll modify the `~/.bash_profile` file:
 
 #### Piperita
 
+## Total Terminal
+
+
+
 ## Window Groups
 
 Set specific Terminal tabs for every project.
