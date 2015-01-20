@@ -37,6 +37,10 @@ Instead of using a smaller screen resolution, consider using the Zoom function (
 * Change the **Size** to make the dock icons smaller
 * Enable **Magnification** and set the magnified size slightly higher that the **Size**
 
+## Mission Control
+
+* Disable **Automatically rearrange Spaces based on most recent use**
+* Enable **Dashboard** with the **As Overlay** option
 
 I personally prefer the dock position at the bottom of the screen, but you can easily change that to either the left or right of the screen from **System Settings > Dock**.
 
