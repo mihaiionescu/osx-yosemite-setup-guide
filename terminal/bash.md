@@ -52,7 +52,17 @@ In order to display this information, we'll modify the `~/.bash_profile` file:
 
 ## Total Terminal
 
+[Total Terminal](http://totalterminal.binaryage.com) is a Terminal add on which adds the ability to ...
 
+* Download the Total Terminal dmg file from the official website.
+* Install the add on.
+* Preferences
+    * Set **Position** to **Right-Stretch**
+    * Set **Screen** option to **Screen with Mouse Cursor**
+    * Set **Pin** shortcut to **ctrl+shift+`**
+    * Enable **Tabs** option **Allow switching via CMD+<number>**
+    * Enable **Show on all Spaces**
+    * Enable **Animation** options **Slide Window** and **Fade Window**
 
 ## Window Groups
 
