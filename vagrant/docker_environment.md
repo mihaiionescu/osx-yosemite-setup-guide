@@ -25,6 +25,6 @@ Once your container is an a state that you would wish to preserve for duplicatio
 ### Container Linking
 
 We will link a pythen web container to a postgres one:
-* download the python web app image and run it `sudo docker run -d --name db training/postgres`
-* `sudo docker run -d -P --name web --link db:db training/webapp python app.py`
+* download the postgres db image, name it as **db** and create a container: `sudo docker run -d --name db training/postgres`
+* download the python web app image, name it as **web**, assign the ports, link it to the **db** container and run it:`sudo docker run -d -P --name web --link db:db training/webapp python app.py`
 * 
