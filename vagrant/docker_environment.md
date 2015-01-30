@@ -38,7 +38,10 @@ For some reason I was unable to run the `sudo docker inspect -f "{{ .HostConfig.
 
 #### Data Containers
 
-##### Adding a Data Container
+default is read-write, but 
+read-only can be specified...
+
+##### Adding a Data Volume Container
 
 
 
