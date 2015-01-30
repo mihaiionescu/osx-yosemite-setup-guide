@@ -13,7 +13,7 @@
 * [Sublime Text](sublime_text/README.md)
 * [Vagrant](vagrant/README.md)
    * [Docker Based Environment](vagrant/docker_environment.md)
-* PostgreSQL
+* [PostgreSQL](postgresql/README.md)
 * [Apps](apps/README.md)
 * [References](references/README.md)
 
