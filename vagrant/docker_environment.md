@@ -34,7 +34,7 @@ For some reason I was unable to run the `sudo docker inspect -f "{{ .HostConfig.
 * once the container is loaded check for the links:
     * run `cat /etc/hosts`. 
     * run `apt-get install -yqq inetutils-ping && ping db`. Successful ping requests to the **db** container should be displayed. Exit the **ping** command by pressing `ctrl + c`
-    * check the environment variables (`env`). You should see a series of db related variables, like `DB_PORT_5432_TCP_ADDR`, `DB_PORT`, `DB_PORT_5432_TCP`, `DB_PORT_5432_TCP_PORT`, `DB_PORT_5432_TCP_PROTO`.
+    * check the environment variables (`env`). You should see a series of db related variables, like `DB_NAME`, `DB_PORT_5432_TCP_ADDR`, `DB_PORT`, `DB_PORT_5432_TCP`, `DB_PORT_5432_TCP_PORT`, `DB_PORT_5432_TCP_PROTO`.
 
 
 
