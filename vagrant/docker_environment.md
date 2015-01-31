@@ -43,6 +43,11 @@ read-only can be specified...
 
 ##### Adding a Data Volume Container
 
+* create a volume data container: `sudo docker create -v /dbdata --name dbdata training/postgres` doesn't work, as there is no create anymore in the docker options. 
+* create PostgreSQL container that use the above created data container: `sudo docker run -d --volumes-from dbdata --name db1 training/postgres`
+* add another container: `sudo docker run -d --volumes-from dbdata --name db2 training/postgres`
+* check the status of the containers created: `sudo docker ps`
 
+https://docs.docker.com/userguide/dockervolumes/
 
 
