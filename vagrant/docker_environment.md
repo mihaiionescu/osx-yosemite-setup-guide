@@ -57,5 +57,6 @@ In order to create backups, we'll launch a container that adds a `backups` folde
 * untar the backup created earlier by running: `sudo docker run --volumes-from dbdata2 -v $(pwd):/backup busybox tar xvf /backup/backup.tar`
 
 https://docs.docker.com/userguide/dockervolumes/
+https://medium.com/@ramangupta/why-docker-data-containers-are-good-589b3c6c749e
 
 
