@@ -53,6 +53,7 @@ read-only can be specified...
 In order to create backups, we'll launch a container that adds a `backups` folder and creates a backup of the `/dbdata` folder:
 
 * `sudo docker run --volumes-from dbdata -v $(pwd):/backup ubuntu tar cvf /backup/backup.tar /dbdata`
+* create a new container and run bash: `sudo docker run -v /dbdata --name dbdata2 ubuntu /bin/bash`
 
 https://docs.docker.com/userguide/dockervolumes/
 
