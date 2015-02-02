@@ -50,7 +50,9 @@ read-only can be specified...
 
 #### Backup and Restore Data Volumes
 
-* 
+In order to create backups, we'll launch a container that adds a `backups` folder and creates a backup of the `/dbdata` folder:
+
+* `sudo docker run --volumes-from dbdata -v $(pwd):/backup ubuntu tar cvf /backup/backup.tar /dbdata`
 
 https://docs.docker.com/userguide/dockervolumes/
 
