@@ -54,6 +54,7 @@ In order to create backups, we'll launch a container that adds a `backups` folde
 
 * `sudo docker run --volumes-from dbdata -v $(pwd):/backup ubuntu tar cvf /backup/backup.tar /dbdata`
 * create a new container and run bash: `sudo docker run -v /dbdata --name dbdata2 ubuntu /bin/bash`
+* untar the backup created earlier by running: `sudo docker run --volumes-from dbdata2 -v $(pwd):/backup busybox tar xvf /backup/backup.tar`
 
 https://docs.docker.com/userguide/dockervolumes/
 
