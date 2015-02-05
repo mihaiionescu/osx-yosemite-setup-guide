@@ -13,6 +13,7 @@ http://www.talkingquickly.co.uk/2014/06/rails-development-environment-with-vagra
 ### Generalities
 
 ##### Useful tutorial links:
+
 * http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-3-automation-is-the-word-using-dockerfile
 
 #### Container vs Image
