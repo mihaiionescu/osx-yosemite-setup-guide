@@ -25,7 +25,7 @@ Once your container is an a state that you would wish to preserve for duplicatio
 #### Building Image from Dockerfile
 
 * running `sudo docker` will reveal a list of options that can be used. `build` is the option we're looking for in order to create an image from a Dockerfile.
-* 
+* `sudo docker build -t ouruser/sinatra:v2 .`. We've specified our docker build command and used the `-t` flag to identify our new image as belonging to the user **ouruser**, the repository name **sinatra** and given it the tag **v2**. We've also specified the location of our Dockerfile using the `.` to indicate a Dockerfile in the current directory.
 
 #### Container Linking
 
