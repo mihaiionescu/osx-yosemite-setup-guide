@@ -11,6 +11,7 @@
 * [Git](git/README.md)
 * [RVM & Ruby](ruby/README.md)
 * [Sublime Text](sublime_text/README.md)
+   * Extensions
 * [Vagrant](vagrant/README.md)
    * [Docker Based Environment](vagrant/docker_environment.md)
 * [PostgreSQL](postgresql/README.md)
