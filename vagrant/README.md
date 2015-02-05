@@ -25,6 +25,7 @@ Download the latest version from [here](http://vagrantmanager.com/downloads/).
 ## SublimeText Syntax Highlighting
 
 In order to add syntax highlighting for Vagrantfile files, we'll edit the Ruby language default associations:
+
 * Go to **Preferences > Browse Packages**.
 * Open the Ruby language file: **Ruby/Ruby.tmLanguage**.
 * Find the `<key>fileTypes</key>` associations.
@@ -38,5 +39,10 @@ In order to add syntax highlighting for Vagrantfile files, we'll edit the Ruby l
     .....
     <string>Vagrantfile</array>
 ```
+
+If in your SublimeText 3 packages folder there is no Ruby/Ruby.tmLanguage file, there is an alternative to get the same funtionality done:
+* Open a file with the desired extension
+* Go to the bottom right corner, where probably you'll find `Plain Text` written
+* Click and select `Open all with current extension as..` and select the desired language.
 
 reference: https://medium.com/@iturgeon/vagrantfile-syntax-highlighting-in-sublime-text-92bb72a74361
