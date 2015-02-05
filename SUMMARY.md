@@ -10,6 +10,7 @@
    * [Usage](homebrew/usage.md)
 * [Git](git/README.md)
 * [RVM & Ruby](ruby/README.md)
+* Atom Editor
 * [Sublime Text](sublime_text/README.md)
    * [Extensions](sublime_text/packages.md)
 * [Vagrant](vagrant/README.md)
@@ -17,5 +18,4 @@
 * [PostgreSQL](postgresql/README.md)
 * [Apps](apps/README.md)
 * [References](references/README.md)
-* Atom Editor
 
