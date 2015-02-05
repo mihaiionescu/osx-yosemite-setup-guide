@@ -22,6 +22,11 @@ Once your container is an a state that you would wish to preserve for duplicatio
 
 ### Useful Docker Commands
 
+#### Building Image from Dockerfile
+
+* running `sudo docker` will reveal a list of options that can be used. `build` is the option we're looking for in order to create an image from a Dockerfile.
+* 
+
 #### Container Linking
 
 We will link a pythen web container to a postgres one:
