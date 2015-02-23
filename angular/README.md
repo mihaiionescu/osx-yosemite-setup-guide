@@ -34,7 +34,7 @@
 * OR .. this one https://coderwall.com/p/cbacta/how-to-setup-your-mac-to-build-single-page-applications-with-angularjs-and-neo4j
 * OR .. https://bardevblog.wordpress.com/2013/10/26/a-simple-tutorial-of-setting-up-and-using-bower-on-windows/
 
-## Install Bower, Grunt, Yaoman
+## Install Bower
 
 [Bower](http://bower.io) is created solely for the front-end and is optimized with that in mind. The biggest difference is that npm does nested dependency tree (size heavy) while Bower requires a flat dependency tree (puts the burden of dependency resolution on the user).
 
@@ -47,9 +47,13 @@ sudo npm install -g bower
 
 Follow the official [documentation](http://bower.io/#getting-started) to see how to install packages like `jquery`.
 
-## Install ...
+## Install Grunt
 
+`sudo npm install -g grunt-cli`
 
+## Install Yaoman
+
+`sudo npm install -g yo`
 
 ## Problems
 
