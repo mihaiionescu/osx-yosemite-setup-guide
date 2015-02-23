@@ -26,3 +26,4 @@
     ```
 
 * OR .. this one https://coderwall.com/p/cbacta/how-to-setup-your-mac-to-build-single-page-applications-with-angularjs-and-neo4j
+* OR .. https://bardevblog.wordpress.com/2013/10/26/a-simple-tutorial-of-setting-up-and-using-bower-on-windows/
