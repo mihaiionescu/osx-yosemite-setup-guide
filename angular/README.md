@@ -1,4 +1,4 @@
-## Install Node
+## Install Node and NPM
 * use Homebrew
 * brew install node
 * brew doctor
@@ -30,6 +30,8 @@
 * OR .. https://bardevblog.wordpress.com/2013/10/26/a-simple-tutorial-of-setting-up-and-using-bower-on-windows/
 
 ## Install Bower
+
+[Bower](http://bower.io) is created solely for the front-end and is optimized with that in mind. The biggest difference is that npm does nested dependency tree (size heavy) while Bower requires a flat dependency tree (puts the burden of dependency resolution on the user).
 
 Once `node` and `npm` are installed, `bower` can be installed through `npm`'s command line tool:
 
