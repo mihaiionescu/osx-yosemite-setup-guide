@@ -1,4 +1,9 @@
 ## Install Node and NPM
+
+[Node.js](http://nodejs.org) is a platform built on [Chrome's JavaScript runtime](https://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+[npm](https://www.npmjs.com) is most commonly used for managing Node.js modules.
+
 * use Homebrew
 * `brew install node`
 * run `brew doctor` to check the installation and any dependencies.
