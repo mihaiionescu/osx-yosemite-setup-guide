@@ -55,6 +55,10 @@ Follow the official [documentation](http://bower.io/#getting-started) to see how
 
 `sudo npm install -g yo`
 
+Yeoman is used to generate the scaffolding of your app for you. It’ll create the basic folders, files and configurations to get you up and running quickly. Not only that but there are some great custom generators available to create apps of a particular kind – we’re going to use the nifty AngularJS generator.
+
+One of the best features of Yeoman is the ability to use custom generators. We’re going to intall the AngularJS generator to help us get up and running with Angular as quick as possible.
+
 ## Problems
 
 * running `npm install` throws access errors. This is a permissions issue in your home directory. To reclaim ownership of the .npm directory execute 
