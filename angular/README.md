@@ -34,7 +34,7 @@
 Once `node` and `npm` are installed, `bower` can be installed through `npm`'s command line tool:
 
 ```
-sudo npm -g bower
+sudo npm install -g bower
 ```
 
 ## Install ...
