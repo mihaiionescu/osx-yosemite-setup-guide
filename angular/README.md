@@ -66,7 +66,6 @@ One of the best features of Yeoman is the ability to use custom generators. Weâ€
     sudo chown -R $(whoami) ~/.npm
     ```
 * eegdfg
-* 
 
 ## References
 
