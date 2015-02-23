@@ -41,7 +41,6 @@
 Many projects use both is that they use `bower` for front-end packages and `npm` for developer tools like Yeoman, Grunt, Gulp, JSHint, CoffeeScript, etc.
 
 Once `node` and `npm` are installed, `bower` can be installed through `npm`'s command line tool. We will install Bower globally, so the folder you're in when running the following command is not important:
-
 ```
 sudo npm install -g bower
 ```
