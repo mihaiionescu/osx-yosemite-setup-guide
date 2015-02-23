@@ -24,6 +24,20 @@
     npm ERR! Please include the following file with any support request:
     npm ERR!     /Users/mihai/Projects/npm-debug.log
     ```
+* I get these errors because there was no `package-dependencies` file in the project folder. Installing Bower can be done separately (`sudo npm install -g bower`). 
 
 * OR .. this one https://coderwall.com/p/cbacta/how-to-setup-your-mac-to-build-single-page-applications-with-angularjs-and-neo4j
 * OR .. https://bardevblog.wordpress.com/2013/10/26/a-simple-tutorial-of-setting-up-and-using-bower-on-windows/
+
+## Install Bower
+
+Once `node` and `npm` are installed, `bower` can be installed through `npm`'s command line tool:
+
+```
+sudo npm -g bower
+```
+
+## Install ...
+
+
+
