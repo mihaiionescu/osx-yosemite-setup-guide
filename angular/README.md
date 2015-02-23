@@ -51,3 +51,14 @@ Follow the official [documentation](http://bower.io/#getting-started) to see how
 
 
 
+## Problems
+
+* running `npm install` throws access errors. This is a permissions issue in your home directory. To reclaim ownership of the .npm directory execute 
+    ```
+    sudo chown -R $(whoami) ~/.npm
+    ```
+* 
+
+
+
+
