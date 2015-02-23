@@ -2,7 +2,7 @@
 
 [Node.js](http://nodejs.org) is a platform built on [Chrome's JavaScript runtime](https://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
-[npm](https://www.npmjs.com) is most commonly used for managing Node.js modules.
+[npm](https://www.npmjs.com) is most commonly used for managing Node.js modules. NPM is a package manager developed with nested dependencies handling in mind (http://maxogden.com/nested-dependencies.html).
 
 * use Homebrew
 * `brew install node`
@@ -37,6 +37,7 @@
 ## Install Bower
 
 [Bower](http://bower.io) is created solely for the front-end and is optimized with that in mind. The biggest difference is that npm does nested dependency tree (size heavy) while Bower requires a flat dependency tree (puts the burden of dependency resolution on the user).
+
 Many projects use both is that they use `bower` for front-end packages and `npm` for developer tools like Yeoman, Grunt, Gulp, JSHint, CoffeeScript, etc.
 
 Once `node` and `npm` are installed, `bower` can be installed through `npm`'s command line tool:
