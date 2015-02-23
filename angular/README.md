@@ -51,6 +51,10 @@ Follow the official [documentation](http://bower.io/#getting-started) to see how
 
 `sudo npm install -g grunt-cli`
 
+Grunt is a powerful, feature rich task runner for Javascript. In brief, it lets you automate repetitive tasks like compiling coffeescript, minifying css, code validation etc. We’ll be using it to do all of that as well as prepare our code for development and deployment.
+
+Grunt is going to whip through our project folder and prepare everything for us such as compiling our included Bootstrap SASS down to css.
+
 ## Install Yaoman
 
 `sudo npm install -g yo`
