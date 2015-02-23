@@ -1,7 +1,7 @@
 ## Install Node and NPM
 * use Homebrew
-* brew install node
-* brew doctor
+* `brew install node`
+* run `brew doctor` to check the installation and any dependencies.
 * `node -v` and `npm -v` to check the installation
 
 # Install Angular
@@ -38,6 +38,8 @@ Once `node` and `npm` are installed, `bower` can be installed through `npm`'s co
 ```
 sudo npm install -g bower
 ```
+
+Follow the official [documentation](http://bower.io/#getting-started) to see how to install packages like `jquery`.
 
 ## Install ...
 
