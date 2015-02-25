@@ -9,7 +9,7 @@
 * run `brew doctor` to check the installation and any dependencies.
 * `node -v` and `npm -v` to check the installation
 
-# Install Angular
+## Install Angular
 * follow [official](https://docs.angularjs.org/tutorial/) documentation - throws back errors of not finding files:
 
     ```
