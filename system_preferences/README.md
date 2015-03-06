@@ -100,7 +100,7 @@ I personally prefer the dock position at the bottom of the screen, but you can e
 
 [Input Font](http://input.fontbureau.com/) is a font created especially for development environments. What sets it apart from other coding fonts is the ability to personalise the code: you can choose either a Serif, Sans or Mono font type, the apparance of i and l (known as the most difficult letters for coding evironments).
 
-You can download the customisation I use from [here](http://input.fontbureau.com/preview/?size=13&language=python&theme=solarized-dark&family=InputSans&width=300&weight=300&line-height=1.2&a=0&g=0&i=topserif&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=sourcecode&customize=please).
+You can download the customisation I use from [here](http://input.fontbureau.com/preview/?size=13&language=python&theme=solarized-dark&family=InputMono&width=300&weight=300&line-height=1.2&a=0&g=0&i=topserif&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=sourcecode&customize=please).
 In order to install it: 
 * Open **Font Book**
 * **Import** and navigate to the location you downloaded the font to.
