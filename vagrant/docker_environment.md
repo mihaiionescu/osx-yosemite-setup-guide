@@ -37,9 +37,9 @@ Once your container is an a state that you would wish to preserve for duplicatio
 We will link a pythen web container to a postgres one:
 * download the postgres db image, name it as **db** and create a container: `sudo docker run -d --name db training/postgres`
 * download the python web app image, name it as **web**, assign the ports, link it to the **db** container and run it:`sudo docker run -d -P --name web --link db:db training/webapp python app.py`. This will link the new web container with the db container you created earlier. The --link flag takes the form `--link name:alias`, where `name` is the name of the container we're linking and `alias` is an alias for the link name.
-* running `sudo docker inspect -f "{{ .HostConfig.Links }}" web` should show you that the 2 containers are linked.
+* running `sudo docker inspect -f "{{.HostConfig.Links}}" web` should show you that the 2 containers are linked.
 
-For some reason I was unable to run the `sudo docker inspect -f "{{ .HostConfig.Links }}" web` command and get the expected result. However, when you run a docker web container and enter the console, you'll be able to see that the 2 containers are linked as expected:
+For some reason I was unable to run the `sudo docker inspect -f "{{.HostConfig.Links}}" web` command and get the expected result. However, when you run a docker web container and enter the console, you'll be able to see that the 2 containers are linked as expected:
 * run docker container and enter console: `sudo docker run -t -i --rm --name web2 --link db:db training/webapp /bin/bash`
 * once the container is loaded check for the links:
     * run `cat /etc/hosts`. 
