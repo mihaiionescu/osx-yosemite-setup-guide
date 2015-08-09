@@ -51,6 +51,7 @@ Note: double check the installation command [here](https://packagecontrol.io/ins
 [DashDoc](https://github.com/farcaller/DashDoc#readme) helps you integrate [Dash](http://kapeli.com) into Sublime Text.
 
 To install DashDoc, simply open Package Control (**cmd + shift + p**), type "package" and choose "Package Control: Install Package" option. In the search bar type "DashDoc" and just hit "Enter".
+Depending on the offline documentations you already downloaded in Dash, you will be able to open Dash by hitting `crtl + h` while having your cursor on method names.
 
 
 
