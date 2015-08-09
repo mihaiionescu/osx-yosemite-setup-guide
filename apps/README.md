@@ -26,6 +26,8 @@
 
 ### Productivity Apps
 
+* [Dash](https://kapeli.com/dash) allows you to download and access offline [150+ documentation sets](https://kapeli.com/dash#docsets). [Dash 3](https://blog.kapeli.com/dash-3) is the latest build and includes a number of new features. Dash can be integrated with most IDEs and even Alfred: [https://kapeli.com/dash#integration](https://kapeli.com/dash#integration).
+
 ### Office Apps
 
 ### Other Apps
