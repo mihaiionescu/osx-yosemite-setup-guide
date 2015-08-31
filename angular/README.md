@@ -65,7 +65,14 @@ One of the best features of Yeoman is the ability to use custom generators. Weâ€
 
 ## Install FontCustom
 
-**TODO:** describe how to install npm fontcustom so that projects using custom font generation won't fail!
+[Font Custom](http://fontcustom.com) allows you to generate custom fonts straight from the command line.
+
+Installing Font Custom will require installing [Font Forge](http://fontforge.github.io/en-US/) using Homebrew, Ruby and RubyGems:
+```
+brew install fontforge --with-python
+brew install eot-utils
+gem install fontcustom
+```
 
 ## Problems
 
