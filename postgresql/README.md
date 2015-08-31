@@ -20,7 +20,15 @@ You can now check if the path is set up correctly by typing `which psql`.
 
 PostgreSQL: `clusterdb` `createdb` `createlang` `createuser` `dropdb` `droplang` `dropuser` `ecpg` `initdb` `oid2name` `pg_archivecleanup` `pg_basebackup` `pg_config` `pg_controldata` `pg_ctl` `pg_dump` `pg_dumpall` `pg_receivexlog` `pg_resetxlog` `pg_restore` `pg_standby` `pg_test_fsync` `pg_test_timing` `pg_upgrade` `pgbench` `postgres` `postmaster` `psql` `reindexdb` `vacuumdb` `vacuumlo`
 
+#### Using PostgreSQL with Ruby
+
+In order to access PostgreSQL databases from Ruby projects, you'll need to install the [pg](https://rubygems.org/gems/pg/versions/0.18.2) gem. If you've already installed Ruby, then installing the `pg` gem is as easy as running in Terminal the following command: `gem install pg -- --with-pg-config=<path-to-pg_config>`. 
+
+**Note:** The path to `pg_config` is the same as the one used to add Postgres' command line utilities: `/Applications/Postgres.app/Contents/Versions/9.3/bin/pg_config`
+
 #### Useful Commands
+
+After setting the command line utilities, you'll be able to manipulate PostgreSQL through Terminal's command line. Here are a coupld of useful commands:
 
 * Connect to specific database: `psql -d <database_name>` 
 * Dump database: `pg_dump <db_name> > <path_to_export_file>.dump.out`
