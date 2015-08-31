@@ -63,6 +63,10 @@ Yeoman is used to generate the scaffolding of your app for you. It’ll create t
 
 One of the best features of Yeoman is the ability to use custom generators. We’re going to intall the AngularJS generator to help us get up and running with Angular as quick as possible.
 
+## Install FontCustom
+
+**TODO:** describe how to install npm fontcustom so that projects using custom font generation won't fail!
+
 ## Problems
 
 * running `npm install` throws access errors. This is a permissions issue in your home directory. To reclaim ownership of the .npm directory execute 
