@@ -1,4 +1,4 @@
-# Install RVM and the Latest Ruby(2.1.5) and Rails
+# Install RVM and the Latest Ruby(2.2.0) and Rails
 
 ## RVM
 
@@ -29,6 +29,12 @@ Check the RVM, Ruby and Rails versions using:
 * Install ruby 2.1.5: `rvm install ruby-2.1.5`
 * Make the 2.1.5 version the default version: `rvm use 2.1.5 --default`
 
+## Useful gems
 
+* [**bundler**](http://bundler.io/#getting-started) - provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.
+    * In order to install Bundler, simply run in Terminal `gem install bundler`.
+    * After installing Bundler, simply specify your gems in the `Gemfile` file in your ruby / ruby on rails project and run `bundle install`.
+* [**pg**](https://rubygems.org/gems/pg/versions/0.18.2) - the Ruby interface to the PostgreSQL RDBMS.
+    * In order to install `pg`, #Postgres app needs to be installed first. Then, simply install by running in Terminal `gem install pg -- --with-pg-config=<path-to-pg_config>`. 
 
 
