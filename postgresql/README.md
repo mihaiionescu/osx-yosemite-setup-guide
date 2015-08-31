@@ -23,5 +23,7 @@ PostgreSQL: `clusterdb` `createdb` `createlang` `createuser` `dropdb` `droplang`
 #### Useful Commands
 
 * Connect to specific database: `psql -d <database_name>` 
-* 
+* Dump database: `pg_dump <db_name> > <path_to_export_file>.dump.out`
+* Dump and compress database: `pg_dump <db_name> | gzip -c > <path_to_export_file>.dump.out.gz`
+* Import from dump file: `psql -d <db_name> -f <path_to_export_file>.dump.out`
 
