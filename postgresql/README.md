@@ -22,7 +22,7 @@ PostgreSQL: `clusterdb` `createdb` `createlang` `createuser` `dropdb` `droplang`
 
 #### Using PostgreSQL with Ruby
 
-In order to access PostgreSQL databases from Ruby projects, you'll need to install the [pg](https://rubygems.org/gems/pg/versions/0.18.2) gem. If you've already installed Ruby, then installing the `pg` gem is as easy as running in Terminal the following command: `gem install pg -- --with-pg-config=<path-to-pg_config>`. 
+In order to access PostgreSQL databases from [Ruby](ruby/README.md) projects, you'll need to install the [pg](https://rubygems.org/gems/pg/versions/0.18.2) gem. If you've already installed Ruby, then installing the `pg` gem is as easy as running in Terminal the following command: `gem install pg -- --with-pg-config=<path-to-pg_config>`. 
 
 **Note:** The path to `pg_config` is the same as the one used to add Postgres' command line utilities: `/Applications/Postgres.app/Contents/Versions/9.3/bin/pg_config`
 
