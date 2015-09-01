@@ -8,6 +8,8 @@
 * [GitGutter]()
 * [SCSS]() ?????
 * SublimeLinter
+* [DashDoc](https://packagecontrol.io/packages/DashDoc)
+* 
 
 -- TO ADD MORE --
 
@@ -20,5 +22,8 @@
 
 Inspiration: http://sourabhbajaj.com/mac-setup/SublimeText/SublimeLinter.html
 
+##### Dash Doc
+
+[Dash Doc](https://packagecontrol.io/packages/DashDoc) is a nice Sublime Text extension for the Dash app. It provides a quick shortcut to the Dash documentations. Move your cursor over a keyword or method and press `ctrl + h`to open Dash app straight at the definition.
 
 -- TO BE ADDED --
