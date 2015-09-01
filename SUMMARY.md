@@ -16,6 +16,7 @@
 * [Vagrant](vagrant/README.md)
    * [Docker Based Environment](vagrant/docker_environment.md)
 * [PostgreSQL](postgresql/README.md)
+* [AngularJS](angular/README.md)
 * [Apps](apps/README.md)
 * [References](references/README.md)
 
