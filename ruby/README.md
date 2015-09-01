@@ -35,6 +35,6 @@ Check the RVM, Ruby and Rails versions using:
     * In order to install Bundler, simply run in Terminal `gem install bundler`.
     * After installing Bundler, simply specify your gems in the `Gemfile` file in your ruby / ruby on rails project and run `bundle install`.
 * [**pg**](https://rubygems.org/gems/pg/versions/0.18.2) - the Ruby interface to the PostgreSQL RDBMS.
-    * In order to install `pg`, #Postgres app needs to be installed first. Then, simply install by running in Terminal `gem install pg -- --with-pg-config=<path-to-pg_config>`. With the latest Postgres app, the path to `pg_config` file is `/Applications/Postgres.app/Contents/Versions/<#version_no>/bin`. Please replace the `<#version_no>` with your PostgreSQL version.
+    * In order to install `pg`, [PostgreSQL](postgresql/README.md) needs to be installed first. In order to install it, follow the instructions in the [PotgreSQL section](postgresql/README.md). Then, simply install by running in Terminal `gem install pg -- --with-pg-config=<path-to-pg_config>`. With the latest Postgres app, the path to `pg_config` file is `/Applications/Postgres.app/Contents/Versions/<#version_no>/bin`. Please replace the `<#version_no>` with your PostgreSQL version.
 
 
