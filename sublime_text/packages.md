@@ -7,7 +7,7 @@
 * [Git]()
 * [GitGutter]()
 * [SCSS]() ?????
-* SublimeLinter
+* [SublimeLinter]()
 * [DashDoc](https://packagecontrol.io/packages/DashDoc)
 * 
 
